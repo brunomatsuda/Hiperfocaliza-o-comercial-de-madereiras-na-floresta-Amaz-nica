@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imagens/capa.jpg" alt="capa" width="850" height="350">
+</p>
+
 # Projeto de extensão: <br> Hiperfocalização comercial de madereiras na floresta Amazônica
 
 ## 🌳 Contexto
