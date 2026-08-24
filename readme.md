@@ -1,4 +1,4 @@
-# Projeto de extensão: <br> Hiperfocalização comercial madereira na floresta Amazônica
+# Projeto de extensão: <br> Hiperfocalização comercial de madereiras na floresta Amazônica
 
 ## 🌳 Contexto
 
@@ -18,5 +18,8 @@ Este projeto visa demonstrar quais espécies fora do radar comercial poderiam se
 - [ ] Qual a relação entre secagem_duracao_dias e classificacao_tempo_secagem? Quantas espécies caem em "Muito Lenta > 20 dias"?
 
 - [ ] Quais espécies têm propriedades mecânicas (dureza, compressão paralela seca) dentro do intervalo interquartil das espécies classificadas como "Pesada" mas pertencem a famílias com poucas espécies na base (potenciais "sub-exploradas")?
+
+## Arquitetura do projeto
+![arquitura do projeto](/arquitetura/arquitetura.png)
 
 ## Fontes
